@@ -1,0 +1,37 @@
+Hey - thanks again for downloading our overlay! We hope you and your viewers like the way it looks on your stream.
+
+*****Three Things*****
+
+1) If you want to change the color of your overlay but don't have Photoshop then here's how if you're using OBS:
+
+-> Right Click your overlay that's listed in your Sources
+-> Click on Filters
+-> Click the Plus (+) icon
+-> Click Color Correction
+-> Drag the Hue Shift left or right
+
+You can also play around with the other settings in the Color Correction filter to fine tune it just how you want it.
+
+-----
+
+2) We've included a Streamplay Graphics Twitch panel you can add below your stream alongside your other panels.
+
+So if you're happy with our graphics, then we'd appreciate you letting your viewers know by adding the panel :)
+
+When you add the panel, please add our website URL (https://streamplaygraphics.com/) where it says "Image Links To:" under the Add Image button.
+
+------
+
+3) If you're wanting some fresh, unique alert sounds for your stream, then head over to our sister site: https://twitchalertsounds.com/
+
+We've got a huge selection of cool sounds you can use for your stream alerts (they work with all apps). If you're bored of the default sounds you get from Streamlabs and other apps, then you'll want to check these out!
+
+------
+
+If you ever have any questions about our graphics please feel free to contact me at mackenzie@streamplaygraphics.com
+
+
+**********************************
+*******STREAMPLAY GRAPHICS********
+****www.streamplaygraphics.com****
+**********************************
